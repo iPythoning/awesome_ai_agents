@@ -1,4 +1,9 @@
 # 🤖 Awesome AI Agents: Tools, Resources, and Projects
+
+<!-- bmc:front -->
+<p align="center"><a href="https://buymeacoffee.com/dayongfan"><img src="https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&amp;emoji=&amp;slug=dayongfan&amp;button_colour=FFDD00&amp;font_colour=000000&amp;font_family=Cookie&amp;outline_colour=000000&amp;coffee_colour=ffffff" alt="Buy me a coffee"></a></p>
+<!-- /bmc:front -->
+
 <div align="center">
   
   [![Post on Twitter](https://img.shields.io/badge/Post%20on-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/intent/tweet?url=https%3A%2F%2Fgithub.com%2Fjim-schwoebel%2Fawesome_ai_agents&text=Discover%20the%20Awesome%20AI%20Agents%20repo%21%20A%20curated%20collection%20of%20AI%20agents%20for%20automation%2C%20NLP%2C%20and%20more%21%20Open-source%20%26%20community-driven%21%20%F0%9F%9A%80)
@@ -964,6 +969,10 @@ The key tools for building AI agents include benchmarks (to evaluate performance
 - [Xai-Data-Science](https://github.com/2002jai/XAI-Data-Science) - XAI-Data-Science - Explore the world of Explainable AI (XAI) through techniques, tools, and applications. Foster transparency, ethics, and…
 - [Yzv103E-Intr.Toai-Dataeng-Ethics](https://github.com/serdarbicici-visualstudio/YZV103E-Intr.toAI-DataEng-Ethics) - YZV 103E Intr. to AI & Data Eng& Ethics materials and team project for İstanbul Technical University
 
+<!-- bmc:middle -->
+<p align="center"><a href="https://buymeacoffee.com/dayongfan"><img src="https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&amp;emoji=&amp;slug=dayongfan&amp;button_colour=FFDD00&amp;font_colour=000000&amp;font_family=Cookie&amp;outline_colour=000000&amp;coffee_colour=ffffff" alt="Buy me a coffee"></a></p>
+<!-- /bmc:middle -->
+
 ### Frameworks
 - [Agent-LLM](https://github.com/Josh-XT/Agent-LLM) - An Artificial Intelligence Automation Platform. [github](https://github.com/Josh-XT/Agent-LLM)
 - [AgentDock](https://github.com/AgentDock/AgentDock) - Stop wrestling with countless APIs and complex integrations. AgentDock provides the open-source foundation to build, manage, and deploy production-ready AI agents and workflows, frictionlessly. [github](https://github.com/agentdock/agentdock)
@@ -1390,7 +1399,6 @@ The key tools for building AI agents include benchmarks (to evaluate performance
 - [Windowsagentarena](https://github.com/microsoft/WindowsAgentArena) - Windows Agent Arena (WAA) 🪟 is a scalable OS platform for testing and benchmarking of multi-modal AI agents.
 - [Worldai](https://github.com/nschaetti/WorldAI) - World AI is a simulator designed for research purposes. It can be used to simulate worlds, logical and ethical problems for AI agents 
 
-
 ### Tools
 - [3Gpp-Requirements-Tools](https://github.com/Adrian2901/3gpp-requirements-tools) - Tools for retrieving 3GPP standards and LLM-powered requirement elicitiation.
 - [Acm](https://github.com/dnanhkhoa/acm) - A dead-simple AI-powered CLI tool for effortlessly crafting meaningful Git commit messages
@@ -1809,7 +1817,6 @@ The key tools for building AI agents include benchmarks (to evaluate performance
 - [Zapier](https://github.com/zapier/zapier-platform) - The SDK for you to build an integration on Zapier
 - [Zorow](https://github.com/openmainframeproject/zorow) - z/OS Open Repository of Workflows (zorow), is an open source community dedicated to contributing and collaborating on z/OSMF workflows. 
 
-
 ---
 
 ## Contributing
@@ -1869,6 +1876,6 @@ Tweet this to share on Twitter:
 
 Proudly open source to benefit the larger community, feel free to fork and extend!
 
-## Support
-
-[![Buy me a coffee](https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&emoji=&slug=dayongfan&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff)](https://buymeacoffee.com/dayongfan)
+<!-- bmc:end -->
+<p align="center"><a href="https://buymeacoffee.com/dayongfan"><img src="https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&amp;emoji=&amp;slug=dayongfan&amp;button_colour=FFDD00&amp;font_colour=000000&amp;font_family=Cookie&amp;outline_colour=000000&amp;coffee_colour=ffffff" alt="Buy me a coffee"></a></p>
+<!-- /bmc:end -->
